@@ -22,7 +22,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
   
-  <h3 align="center">"完美的"README模板</h3>
+  <h3 align="center">"Open-Touch-4th-Tools</h3>
   <p align="center">
     一个"完美的"README模板去快速开始你的项目！
     <br />
