@@ -26,7 +26,7 @@
   <p align="center">
     一个适用于iPod touch 第四代的开源工具
     <br />
-    <a href="https://github.com/shaojintian/Best_README_template"><strong>探索本项目的文档 »</strong></a>
+    <a href="https://github.com/appleiPodTouch4/Open-Touch-4th-Tools"><strong>探索本项目的文档 »</strong></a>
     <br />
     <br />
     <a href="https://github.com/appleiPodTouch4/Open-Touch-4th-Tools/releases/tag/Latest">下载最新版本</a>
