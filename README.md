@@ -49,7 +49,7 @@
 
 ### 目前实现的功能
 
-"越狱（iOS6.1.6）"调用工具为<a href="https://github.com/LukeZGD/Legacy-iOS-Kit">Legacy iOS Kit_macos</a>
+"越狱（iOS6.1.6）:内置SSH Ramdisk越狱
 
 "iOS7双系统"部分：
 
