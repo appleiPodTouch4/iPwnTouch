@@ -1,6 +1,6 @@
 
 
-# Open-Touch-4th-Tools
+# iPwnTouch
 
 此工具用于iPod Touch 4th写入双系统iOS7.1.2的半自动工具
 为解决写入分区或替换文件的大部分复杂流程
@@ -24,14 +24,14 @@
   
   <h3 align="center">Open-Touch-4th-Tools</h3>
   <p align="center">
-    一个适用于iPod touch 第四代的开源工具
+    一个适用于iPod touch 的开源工具
     <br />
-    <a href="https://github.com/appleiPodTouch4/Open-Touch-4th-Tools"><strong>探索本项目的文档 »</strong></a>
+    <a href="https://github.com/appleiPodTouch4/iPwnTouch"><strong>探索本项目的文档 »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/appleiPodTouch4/Open-Touch-4th-Tools/releases/tag/Latest">下载最新版本</a>
+    <a href="https://github.com/appleiPodTouch4/iPwnTouch/releases/tag/Latest">下载最新版本</a>
     ·
-    <a href="https://github.com/shaojintian/Best_README_template/issues">报告Bug</a>
+    <a href="https://github.com/appleiPodTouch4/iPwnTouch/issues">报告Bug</a>
     ·
   </p>
 
@@ -114,15 +114,15 @@ github@appleiPodTouch4
  *您也可以在贡献者名单中参看所有参与该项目的开发者。*
  
  <!-- links -->
-[your-project-path]:appleiPodTouch4/Open-Touch-4th-Tools
+[your-project-path]:appleiPodTouch4/iPwnTouch
 [contributors-shield]: https://img.shields.io/github/contributors/shaojintian/Best_README_template.svg?style=flat-square
-[contributors-url]: https://github.com/appleiPodTouch4/Open-Touch-4th-Tools/graphs/contributors
+[contributors-url]: https://github.com/appleiPodTouch4/iPwnTouch/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/shaojintian/Best_README_template.svg?style=flat-square
-[forks-url]: https://github.com/appleiPodTouch4/Open-Touch-4th-Tools/network/members
+[forks-url]: https://github.com/appleiPodTouch4/iPwnTouch/network/members
 [stars-shield]: https://img.shields.io/github/stars/shaojintian/Best_README_template.svg?style=flat-square
-[stars-url]: https://github.com/appleiPodTouch4/Open-Touch-4th-Tools/stargazers
+[stars-url]: https://github.com/appleiPodTouch4/iPwnTouch/stargazers
 [issues-shield]: https://img.shields.io/github/issues/shaojintian/Best_README_template.svg?style=flat-square
-[issues-url]: https://github.com/appleiPodTouch4/Open-Touch-4th-Tools/issues
+[issues-url]: https://github.com/appleiPodTouch4/iPwnTouch/issues
 
 
 
