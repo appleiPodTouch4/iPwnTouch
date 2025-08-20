@@ -18,11 +18,11 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/appleiPodTouch4/Open-Touch-4th-Tools/">
+  <a href="https://github.com/appleiPodTouch4/iPwnTouch/">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
   
-  <h3 align="center">Open-Touch-4th-Tools</h3>
+  <h3 align="center">iPwnTouch</h3>
   <p align="center">
     一个适用于iPod touch 的开源工具
     <br />
