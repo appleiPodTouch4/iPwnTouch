@@ -2,7 +2,7 @@
 
 # iPwnTouch
 
-此工具用于iPod Touch 4th写入双系统iOS7.1.2的半自动工具
+此工具用于iPod Touch 4th写入iOS7.1.2的半自动工具
 为解决写入分区或替换文件的大部分复杂流程
 
 <!-- PROJECT SHIELDS -->
