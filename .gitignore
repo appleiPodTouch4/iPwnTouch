@@ -6,7 +6,7 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
-
+commit.sh
 # 忽略指定目录
 /tmp/
 /win/
@@ -31,3 +31,4 @@ Thumbs.db
 /saved/*.sh
 /saved/*/*
 !/saved/*/
+commit.sh
