@@ -6,7 +6,6 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
-ssh_config
 
 # 忽略指定目录
 /tmp/
