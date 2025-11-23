@@ -18,6 +18,8 @@ Thumbs.db
 /bin/System/CustomIPSW/
 /bin/System/Futurerestore/
 /bin/System/Saved/
+/bin/lib/shsh/*
+/bin/lib/src/
 /bin/System/Android/
 /bin/System/Restore/
 /bin/SSHRD/*
