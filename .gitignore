@@ -7,28 +7,8 @@
 ehthumbs.db
 Thumbs.db
 commit.sh
-# 忽略指定目录
-/tmp/
-/win/
-/OTA/
-/older_files/
-/bin/Save/
-/bin/oldlib/
-/bin/allowed.txt
-/bin/System/CustomIPSW/
-/bin/System/Futurerestore/
-/bin/System/Saved/
-/bin/lib/shsh/*
-/bin/lib/src/
-/bin/System/Android/
-/bin/System/Restore/
-/bin/SSHRD/*
-!/bin/SSHRD/files/
-!/bin/SSHRD/files/**
-/bin/Firmware/
-# 保留 saved/ 第一层文件夹，但忽略其中的所有内容
-/saved/*.dmg
-/saved/*.sh
-/saved/*/*
-!/saved/*/
-commit.sh
+/resources/current_platform
+/tmp*/
+/saved/
+block_*.txt
+
